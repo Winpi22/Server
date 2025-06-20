@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "961462fb-03ad-317a-bbde-0142cca180cc",
+    "name": "PulseraMorada",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

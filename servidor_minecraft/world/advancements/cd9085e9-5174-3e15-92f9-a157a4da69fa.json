@@ -2397,6 +2397,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2025-06-20 01:31:36 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/buildingblocks/smooth_white_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-06-20 00:50:31 +0000"
@@ -2736,6 +2742,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-20 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-20 01:31:36 +0000"
     },
     "done": true
   },
