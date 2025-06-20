@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-20 02:09:51 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/decoration/tenebra_stairs_uncraft": {
     "criteria": {
       "has_the_recipe": "2025-06-19 23:06:24 +0000"
@@ -2409,6 +2415,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2025-06-20 02:10:02 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/buildingblocks/smooth_white_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-06-19 23:06:24 +0000"
@@ -2748,6 +2760,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-19 23:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-20 02:10:02 +0000"
     },
     "done": true
   },
@@ -3516,6 +3534,12 @@
   "biomesoplenty:recipes/buildingblocks/ebony_stairs": {
     "criteria": {
       "has_the_recipe": "2025-06-19 23:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-20 02:16:14 +0000"
     },
     "done": true
   },
