@@ -2024,3 +2024,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'defiledlands:material/teneb
 [01:03:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <PulseraMorada> chao mivida
 [01:03:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PulseraMorada lost connection: Disconnected
 [01:03:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PulseraMorada left the game
+[01:11:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Iosef_2725 lost connection: Disconnected
+[01:11:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Iosef_2725 left the game
