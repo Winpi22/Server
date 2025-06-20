@@ -3370,3 +3370,16 @@ iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found
 [01:38:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PulseraMorada: Given    [Flint Shard] * 1 to PulseraMorada]
 [01:38:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PulseraMorada: Given    [Flint Shard] * 1 to PulseraMorada]
 [01:38:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PulseraMorada: Given    [Flint Shard] * 1 to PulseraMorada]
+[01:48:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Iosef_2725 was killed by magic
+[01:53:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PulseraMorada: Game rule randomTickSpeed has been updated to 10]
+[01:53:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PulseraMorada: Game rule randomTickSpeed has been updated to 100000]
+[01:53:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3821ms behind, skipping 76 tick(s)
+[01:53:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PulseraMorada: Game rule randomTickSpeed has been updated to 100000000000]
+[01:54:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PulseraMorada: Game rule randomTickSpeed has been updated to 100000]
+[01:54:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3168ms behind, skipping 63 tick(s)
+[01:54:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: PulseraMorada moved too quickly! -9.72080752200607,0.0,2.3636065273526192
+[01:54:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: PulseraMorada moved too quickly! -6.61472814655712,2.446947937232963,-7.452708160445727
+[01:54:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: PulseraMorada moved too quickly! -3.2194771651996277,1.4950660194469805,-9.392376970982554
+[01:55:18] [Server thread/INFO] [STDOUT]: [asmodeuscore.core.event.AsmodeusEvent:onPlayerJoinWorld:121]: Test event 2
+[01:55:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PulseraMorada: Game rule randomTickSpeed has been updated to 3]
+[01:55:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2803ms behind, skipping 56 tick(s)
